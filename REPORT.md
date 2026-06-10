@@ -1,4 +1,4 @@
-# Technical Assessment Report - Full-Stack Developer Intern
+# Technical Assessment Report : Full-Stack Event Management System
 
 This repository contains a creative, interactive single-page web application that redesigns the reference conference experience. It features an intelligent Python backend powered by a Retrieval-Augmented Generation (RAG) pipeline to seamlessly match attendee professional challenges with the official event agenda.
 
